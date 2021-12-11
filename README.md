@@ -1,2 +1,2 @@
 # Heart-check-up
-Mobile Ruffier test
+Mobile Ruffier test. Kivy
